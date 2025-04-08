@@ -29,9 +29,9 @@ A demonstration of fundamental  Sorting line Project using Ladder Diagram (LAD) 
 
 # 🛠️ Requirements Software:
 
-      Siemens TIA Portal (V16 or later).
+       Siemens TIA Portal (V16 or later).
 
-      Factory I/O (optional, for 3D simulation). 
+       Factory I/O (optional, for 3D simulation). 
 
 #   Hardware:
-     Compatible S7 PLC (e.g., S7-1200/S7-1500) or PLCSIM Advanced for virtual testing.
+      Compatible S7 PLC (e.g., S7-1200/S7-1500) or PLCSIM Advanced for virtual testing.
