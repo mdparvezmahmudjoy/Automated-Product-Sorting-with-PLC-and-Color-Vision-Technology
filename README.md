@@ -1,5 +1,5 @@
 # Automated Product Sorting with Color Vision Technology
-A demonstration of fundamental  Sorting line with using color sensor controller Project using Ladder Diagram (LAD) in Siemens TIA Portal for S7 PLCs.
+A demonstration of fundamental  Sorting line and Color sensor controller model  Project using Ladder Diagram (LAD) in Siemens TIA Portal for S7 PLCs.
 
 # 📁 Project Contents This repository contains:
 
