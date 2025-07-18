@@ -1,4 +1,4 @@
-# Sorting-line-Project
+# Automated-Product-Sorting-with-PLC-and-Color-Vision-Technology
 A demonstration of fundamental  Sorting line Project using Ladder Diagram (LAD) in Siemens TIA Portal for S7 PLCs.
 
 # 📁 Project Contents This repository contains:
